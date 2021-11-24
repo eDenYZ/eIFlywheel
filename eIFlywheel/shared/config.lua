@@ -27,7 +27,7 @@ eIFlywheels = {
     },
     Kit = {
         {Nom = "Kit Moteur", Item = "moteurkit"},
-        {Nom = "Kit Carrosserie", Item = "carokit"},
+        {Nom = "Kit Carrosserie", Item = "caroskit"},
         {Nom = "Bouteille de gaz", Item = "gazbottle"},
         {Nom = "Chiffon", Item = "chiffon"}
     },
